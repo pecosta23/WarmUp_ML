@@ -34,7 +34,7 @@ def executar_classificador(classificador, x_train, x_test, y_train):
 
 import matplotlib.pyplot as plt
 def salvar_arvore(classificador, nome):
-  plt.figure(figsize=(10,10))
+  plt.figure(figsize=(200,100))
   tree.plot_tree(classificador, filled=True, fontsize=14)
   plt.savefig(nome)
   plt.close()
@@ -51,3 +51,5 @@ y_pred_arvore_decisao = executar_classificador(classificador_arvore_decisao, x_t
 
 #criacao da figura da arvore de decisao
 salvar_arvore(classificador_arvore_decisao, "Arvore_Decisao_1.png")
+
+
