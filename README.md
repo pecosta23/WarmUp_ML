@@ -1,4 +1,4 @@
-Primeiro arquivo o ArvoreDecisao é um estudo da minha pós graduação.
+Primeiro arquivo, o ArvoreDecisao, é um estudo da minha pós graduação.
 
 Baixe do site kaggle.com/datasets/mlg-ulb/creditcardfraud o csv necessário.
 
