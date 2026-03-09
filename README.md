@@ -1,5 +1,8 @@
-Primeiro arquivo, o ArvoreDecisao, é um estudo da minha pós graduação.
+Thanks for visiting this page, here you will find my repo for:
 
-Baixe do site kaggle.com/datasets/mlg-ulb/creditcardfraud o csv necessário.
+The first file, ArvoreDecisao, is part of a study conducted during my postgraduate program.
 
-Depois, para utilizar o código corretamente altere o campo de leitura do arquivo creditcard.csv para onde você salvou o arquivo em seu dispositivo.
+Download the required CSV file from the dataset available at Kaggle:
+https://kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+To run the code correctly, update the file path in the creditcard.csv reading section so that it points to the location where the file was saved on your device.
